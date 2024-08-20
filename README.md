@@ -24,7 +24,7 @@ show_9,6,10
 (I will leave an example input in the file itself )
 
 2. **Execution:**  
-Once the input is entered, navigate to `main.py` and run the code. Upon completion, the schedule can be found in the `output` folder.
+Once the input is entered, navigate to `main.py` and run the code. Enter the minimum amount of hours there has to be between perfomances on the same stage. Upon completion, the schedule can be found in the `output` folder.
 
 3. **Output:**  
 There are three files located in the `output` folder:
