@@ -1,1 +1,5 @@
-
+Begin code uitvoering:2024-08-20 17:27:46
+Einde code uitvoering:2024-08-20 17:27:47
+Schema succesful gemaakt met minimale podia.
+Podia: 6
+Minimale tijd tussen shows: 1 uur
